@@ -1,3 +1,2 @@
-#!/usr/bin/python3
-number = 3.5545745
-print("float: "'{:.2f}'.format(number))
+#!/usr/bin/python
+print("Float: "'{:.2f}'.format(3.5545745))
